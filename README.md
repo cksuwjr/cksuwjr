@@ -21,9 +21,9 @@
 <h2> 사용해본 엔진 및 솔루션</h2><br>
 
 <div style="flex">
-  <img src="https://img.shields.io/badge/Unity-blue?style=flat-square&logo=Unity&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Android Studio-blue?style=flat-square&logo=Android&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Visual Studio-blue?style=flat-square&logo=Visual Studio&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Unity-222324?style=flat-square&logo=Unity&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Android Studio-green?style=flat-square&logo=Android&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Visual Studio-purple?style=flat-square&logo=Visual Studio&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Visual Studio Code-blue?style=flat-square&logo=Visual Studio Code&logoColor=white"/></a>&nbsp 
   
 </div>
