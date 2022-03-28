@@ -1,3 +1,6 @@
+![profile](https://user-images.githubusercontent.com/63836325/160344289-cd997e4f-28e1-4d04-a746-b95a4019e9aa.gif)
+
+
 <h1>소개</h1><br>
 안녕하세요.<br><br>
 게임 개발자를 꿈꾸며 공부하는 학생입니다.<br>
