@@ -1,5 +1,6 @@
 ![profile](https://user-images.githubusercontent.com/63836325/160344289-cd997e4f-28e1-4d04-a746-b95a4019e9aa.gif)
-![pixil-gif-drawing](https://user-images.githubusercontent.com/63836325/160344985-b429506f-0c07-4603-89c8-af4b3054737e.gif)
+![profile](https://user-images.githubusercontent.com/63836325/160345497-2a16e8d6-ac0f-43fc-8a42-af40236fff9e.gif)
+
 
 
 <h1>소개</h1><br>
