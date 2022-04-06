@@ -22,6 +22,11 @@
   <img src="https://img.shields.io/badge/Java-blue?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=JavaScript&logoColor=white"/></a>&nbsp
   
+  <img src="https://img.shields.io/badge/HTML5-red?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/CSS3-yellow?style=flat-square&logo=CSS3&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Python-white?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/MySQL-blue?style=flat-square&logo=MySQL&logoColor=white"/></a>&nbsp
+  
   
 </div>
 <br><br>
@@ -31,10 +36,13 @@
 <div style="flex">
   <img src="https://img.shields.io/badge/Unity-222324?style=flat-square&logo=Unity&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Android Studio-green?style=flat-square&logo=Android&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Visual Studio-purple?style=flat-square&logo=Visual Studio&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Visual Studio-purple?style=flat-square&logo=Visual Studio&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Visual Studio Code-blue?style=flat-square&logo=Visual Studio Code&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Eclipse IDE-lightgray?style=flat-square&logo=Eclipse IDE&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Springboot-lightgreen?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp 
   
 </div>
+
 <br><br>
 <!--<img src="https://img.shields.io/badge/(쓰고자하는_텍스트)-(컬러코드)?style=flat-square&logo=(simpleicons에서_아이콘이름)&logoColor=white"/></a>&nbsp  -->
 
