@@ -1,7 +1,13 @@
-![profile](https://user-images.githubusercontent.com/63836325/160344289-cd997e4f-28e1-4d04-a746-b95a4019e9aa.gif)
-![pixil-gif-drawing (2)](https://user-images.githubusercontent.com/63836325/160346452-228fd1a6-3894-4c40-8ca8-b36ad08cff58.gif)
+<br><br>
 
-
+<div align="center">
+  
+ 
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=NanumGothic&duration=4000&color=2EA2D4E1&center=true&vCenter=true&lines=Welcome+to+my+playground+)](https://git.io/typing-svg)
+  
+</div>
+<br><br>
 
 
 
@@ -48,11 +54,20 @@
 
 <hr>
 
-![cksuwjr's github stats](https://github-readme-stats.vercel.app/api?username=cksuwjr&show_icons=true&theme=radical&title_color=black&hide_title=true)
 
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcksuwjr%2Fhit-counter&count_bg=%234961EF&title_bg=%2301245E&icon=github.svg&icon_color=%23FFFFFF&title=visitors&edge_flat=false)](https://hits.seeyoufarm.com)
 
+
+
+[![cksuwjr's github activity graph](https://activity-graph.herokuapp.com/graph?username=cksuwjr&theme=react-dark&hide_title=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<div style="flex">
+
+  <!--![profile](https://user-images.githubusercontent.com/63836325/160344289-cd997e4f-28e1-4d04-a746-b95a4019e9aa.gif)-->
+  ![cksuwjr's github stats](https://github-readme-stats.vercel.app/api?username=cksuwjr&show_icons=true&theme=radical&title_color=black&hide_title=true)
+  ![pixil-gif-drawing (2[](url))](https://user-images.githubusercontent.com/63836325/160346452-228fd1a6-3894-4c40-8ca8-b36ad08cff58.gif)
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcksuwjr%2Fhit-counter&count_bg=%234961EF&title_bg=%2301245E&icon=github.svg&icon_color=%23FFFFFF&title=visitors&edge_flat=false)](https://hits.seeyoufarm.com)  
+</div>
 <!--
 **cksuwjr/cksuwjr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
