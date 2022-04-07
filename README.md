@@ -16,14 +16,14 @@
 <h2> 사용해본 언어들 </h2><br>
 
 <div style="flex">
-  <img src="https://img.shields.io/badge/-yellow?style=flat-square&logo=C&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/-yellow?style=flat-square&logo=C&logoColor=black"/></a>&nbsp 
   <img src="https://img.shields.io/badge/C++-orange?style=flat-square&logo=C++&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Cs-red?style=flat-square&logo=.NET&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Java-blue?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=JavaScript&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/HTML5-red?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/CSS3-yellow?style=flat-square&logo=CSS3&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Python-white?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/CSS3-yellow?style=flat-square&logo=CSS3&logoColor=black"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Python-white?style=flat-square&logo=Python&logoColor=black"/></a>&nbsp
   <img src="https://img.shields.io/badge/MySQL-blue?style=flat-square&logo=MySQL&logoColor=white"/></a>&nbsp
   
 </div>
