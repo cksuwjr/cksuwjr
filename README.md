@@ -49,6 +49,19 @@
 </div>
 
 <br><br>
+
+<h2> 보유 자격증</h2><br>
+
+<div style="flex">
+  <h5>
+    정보처리기사 [2021/06] <br>
+    리눅스 마스터 2급 [2022/06] <br>
+    네트워크 관리사 2급 [2022/07] <br>
+  
+  </h5>
+</div>
+
+<br><br>
 <!--<img src="https://img.shields.io/badge/(쓰고자하는_텍스트)-(컬러코드)?style=flat-square&logo=(simpleicons에서_아이콘이름)&logoColor=white"/></a>&nbsp  -->
 
 
