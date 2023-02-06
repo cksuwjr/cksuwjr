@@ -72,7 +72,7 @@
 
 
 
-[![cksuwjr's github activity graph](https://activity-graph.herokuapp.com/graph?username=cksuwjr&theme=react-dark&hide_title=true)](https://github.com/cksuwjr)
+
 
 <div style="flex">
 
