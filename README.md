@@ -78,8 +78,8 @@
 [2020]<br>~10/20 | Shooting-Network-2D | 2D 네트워크 슈팅대전게임 | https://github.com/cksuwjr/Shooting-Network-2D |Unity, C#, Photon2|완료|
 [2020]<br>11/18 | Inventory | 졸업프로젝트 생존 서바이벌 게임 제작을 위한 인벤토리 | https://github.com/cksuwjr/Inventory |Unity, C#|완료|
 [2021]<br>5/8<br>~<br>5/16 | 2D-Fight | 2D 게임 구현을 위한 연습 | https://github.com/cksuwjr/2D-Fight |Unity, C#|완료, 중단|
-[2021]<br>12/29<br>~<br>[2022]<br>2/11 | javaShoppingMall | 자바 쇼핑몰 구현 프로젝트 프론트엔드 참여 | none | Springboot, css |중단|
-[2022]<br>1/24<br>~<br>2/3 | ShoppingMall-Design-Exercise | 쇼핑몰 디자인 연습 페이지 | https://github.com/cksuwjr/ShoppingMall-Design-Exercise |html, css, JQuery|완료|
+[2021]<br>12/29<br>~<br>[2022]<br>2/11 | javaShoppingMall | 자바 쇼핑몰 구현 프로젝트 프론트엔드 참여 | none | Springboot, htmp, css |중단|
+[2022]<br>1/24<br>~<br>2/3 | ShoppingMall-Design-Exercise | 쇼핑몰 디자인 연습 페이지 | https://github.com/cksuwjr/ShoppingMall-Design-Exercise |html, css, JavaScript, JQuery|완료|
 [2022]<br>2/19 | Springboot_exercise | Springboot 연습 | https://github.com/cksuwjr/Springboot_exercise | | |
 [2022]<br>3/12<br>~<br>06/03 | Over-the-breath | 잃어버린 종족의 숨결을 찾아 떠나는 용의 모험 | https://github.com/cksuwjr/Over-the-breath | Unity, C# |완료|
 [2022]<br>06/17 | MeMo, Study-for-Certificate | 자격증 공부 페이지 | MeMo<br>https://github.com/cksuwjr/Memo<br>Study-for-Certificate<br> https://github.com/cksuwjr/Study-for-Certificate | ||
