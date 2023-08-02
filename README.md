@@ -76,10 +76,10 @@
 |:--------:|--------|----------------|:--------:|:--------:|
 [2019]<br>10/01<br>~<br>12/01 | CrazyArcade_java | AWT를 이용한 자바 GUI 로 구성한 크레이지 아케이드 모작 게임 <br> https://github.com/cksuwjr/CrazyArcade_java |Java|완료|
 [2020]<br>5/4<br>~<br>6/28| Mobil Project | 커피 자판기 프로그램과 에픽하이 소개, 링크 어플 <br> https://github.com/cksuwjr/MobileProject | Android Studio <br> Java |완료|
-[2020]<br>9/23<br>~<br>12/20 | Web-Embedded-System | 유해물질 가스 자동환기시스템 개발 - 웹 임베디드 시스템 진행 보고서 <br> https://github.com/cksuwjr/Web-Embedded-System | Raspberry Pi <br> Python <br> Node RED <br> KAKAO API <br> HACCP API <br> 기상청 API | 완료 | 
+[2020]<br>9/23<br>~<br>12/20 | Web-Embedded-System | 유해물질 가스 자동환기시스템 개발(웹 임베디드 시스템 보고서) <br> https://github.com/cksuwjr/Web-Embedded-System | Raspberry Pi <br> Python <br> Node RED <br> KAKAO API <br> HACCP API <br> 기상청 API | 완료 | 
 [2020]<br>9/24<br>~<br>12/17 | Physical-Computing-practice | Physical Computing 실습 <br> https://github.com/cksuwjr/Physical-Computing-practice | Big Board <br> C <br> Arduino | 완료 | 
 [2020]<br>10/20 | Shooting-Network-2D | 2D 네트워크 슈팅대전게임 <br> https://github.com/cksuwjr/Shooting-Network-2D |Unity<br>C#<br>Photon2|완료|
-[2020]<br>11/18 | Inventory | 졸업프로젝트 생존 서바이벌 게임 제작을 위한 인벤토리 <br> https://github.com/cksuwjr/Inventory |Unity<br>C#|완료|
+[2020]<br>11/18 | Inventory | 캡스톤 프로젝트 생존 서바이벌 게임 제작을 위한 인벤토리 <br> https://github.com/cksuwjr/Inventory |Unity<br>C#|완료|
 [2021]<br>5/8<br>~<br>5/16 | 2D-Fight | 2D 게임 구현을 위한 연습 <br> https://github.com/cksuwjr/2D-Fight |Unity<br>C#|완료, 중단|
 [2021]<br>12/29<br>~<br>[2022]<br>2/11 | javaShoppingMall | 자바 쇼핑몰 구현 프로젝트 프론트엔드 참여 | Springboot<br>html<br>css |중단|
 [2022]<br>1/24<br>~<br>2/3 | ShoppingMall-Design-Exercise | 쇼핑몰 디자인 연습 페이지 <br> https://github.com/cksuwjr/ShoppingMall-Design-Exercise |html<br>css<br>JavaScript<br>JQuery|완료|
