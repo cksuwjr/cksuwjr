@@ -57,11 +57,11 @@
   
 |자격명|발행처|취득시기|
 |--------|--------|:--------:|
-|**<span style="color:red">ACA Photoshop CC 2015</span>**|Adobe|2020/06|
-|**<span style="color:blue">정보처리기사</span>**|한국산업인력공단|2021/06|
-|**<span style="color:blue">2종 보통 운전면허</span>**|경찰청(운전면허시험관리단)|2022/05|
-|**<span style="color:blue">리눅스 마스터 2급</span>**|한국정보통신인력개발센터|2022/06|
-|**<span style="color:blue">네트워크 관리사 2급</span>**|한국정보통신자격협회|2022/07|
+|**<span style="color:red">ACA Photoshop CC 2015</span>**|Adobe|2020/06/26|
+|**<span style="color:blue">정보처리기사</span>**|한국산업인력공단|2021/06/02|
+|**<span style="color:blue">2종 보통 운전면허</span>**|경찰청(운전면허시험관리단)|2022/03/22|
+|**<span style="color:blue">리눅스 마스터 2급</span>**|한국정보통신인력개발센터|2022/07/01|
+|**<span style="color:blue">네트워크 관리사 2급</span>**|한국정보통신자격협회|2022/07/19|
 
 </div>
 
