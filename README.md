@@ -69,6 +69,7 @@
 
 
 <h2>Project Repository</h2><br>
+<div style="flex">
 <h5>
 
 |프로젝트 기간|프로젝트 제목|프로젝트 설명 및 링크|개발툴|상태|
@@ -97,10 +98,6 @@
 [2023]<br>3/22<br>~<br>Now() | Pagomoa | 채굴마법소녀 Pagomoa 프로젝트 <br> https://github.com/Ciart/Pagomoa |Unity<br>C#|진행|
 
 </h5>
- 
-<div style="flex">
-  
-  
 </div>
 
 <hr>
