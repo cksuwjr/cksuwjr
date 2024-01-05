@@ -74,27 +74,27 @@
 |프로젝트 기간|프로젝트 제목|프로젝트 설명 및 링크|개발툴|상태|
 |:--------:|--------|----------------|:--------:|:--------:|
 2019<br>10/01<br>~<br>12/01 | CrazyArcade_java | AWT를 이용한 자바 GUI 로 구성한 크레이지 아케이드 모작 게임 <br> https://github.com/cksuwjr/CrazyArcade_java |Java|완료|
-2020<br>5/4<br>~<br>6/28| Mobil Project | 커피 자판기 프로그램과 에픽하이 소개, 링크 어플 <br> https://github.com/cksuwjr/MobileProject | Android Studio <br> Java |완료|
+2020<br>5/4<br>~<br>6/28| Mobil Project | 커피 자판기 프로그램과 간단한 뮤직그룹 소개 어플 <br> https://github.com/cksuwjr/MobileProject | Android Studio <br> Java |완료|
 2020<br>9/23<br>~<br>12/20 | Web-Embedded-System | 유해물질 가스 자동환기시스템 개발(웹 임베디드 시스템 보고서) <br> https://github.com/cksuwjr/Web-Embedded-System | Raspberry Pi <br> Python <br> Node RED <br> KAKAO API <br> HACCP API <br> 기상청 API | 완료 | 
 2020<br>9/24<br>~<br>12/17 | Physical-Computing-practice | Physical Computing 실습 <br> https://github.com/cksuwjr/Physical-Computing-practice | Big Board <br> C <br> Arduino | 완료 | 
 2020<br>10/20 | Shooting-Network-2D | 2D 네트워크 슈팅대전게임 <br> https://github.com/cksuwjr/Shooting-Network-2D |Unity<br>C#<br>Photon2|완료|
 2020<br>11/18 | Inventory | 캡스톤 프로젝트 생존 서바이벌 게임 제작을 위한 인벤토리 <br> https://github.com/cksuwjr/Inventory |Unity<br>C#|완료|
-2021<br>5/8<br>~<br>5/16 | 2D-Fight | 2D 게임 구현을 위한 연습 <br> https://github.com/cksuwjr/2D-Fight |Unity<br>C#|완료, 중단|
-2021<br>12/29<br>~<br>2022<br>2/11 | javaShoppingMall | 자바 쇼핑몰 구현 프로젝트 프론트엔드 참여 | Springboot<br>html<br>css |중단|
+2021<br>5/8<br>~<br>5/16 | 2D-Fight | 2D 게임 구현을 위한 연습 <br> https://github.com/cksuwjr/2D-Fight |Unity<br>C#|완료|
+2021<br>12/29<br>~<br>2022<br>2/11 | javaShoppingMall | 자바 쇼핑몰 구현 프로젝트 프론트엔드 참여 | Springboot<br>html<br>css ||
 2022<br>1/24<br>~<br>2/3 | ShoppingMall-Design-Exercise | 쇼핑몰 디자인 연습 페이지 <br> https://github.com/cksuwjr/ShoppingMall-Design-Exercise |html<br>css<br>JavaScript<br>JQuery|완료|
 2022<br>2/19 | Springboot_exercise | Springboot 연습 <br> https://github.com/cksuwjr/Springboot_exercise | | |
 2022<br>3/12<br>~<br>06/03 | Over-the-breath | 잃어버린 종족의 숨결을 찾아 떠나는 용의 모험 <br> https://github.com/cksuwjr/Over-the-breath | Unity<br>C# |완료|
 2022<br>06/17 | MeMo<br>Study-for-Certificate | 자격증 공부 페이지 <br> MeMo<br>https://github.com/cksuwjr/Memo<br>Study-for-Certificate<br> https://github.com/cksuwjr/Study-for-Certificate | ||
 2022<br>06/23<br>~<br>06/30 | Network-Manager-<br>Certificate-Exercise-Program | 네트워크 관리사 2급을 공부하기 위해 개발한 콘솔 프로그램 <br> https://github.com/cksuwjr/Network-Manager-Certificate-Exercise-Program |C#|완료|
-2022<br>07/13<br>~<br>08/19 | Rice-Fight-2D | 2D 네트워크 대전 게임 초안 <br> https://github.com/cksuwjr/Rice-Fight-2D |Unity<br>C#|중단|
+2022<br>07/13<br>~<br>08/19 | Rice-Fight-2D | 2D 네트워크 대전 게임 초안 <br> https://github.com/cksuwjr/Rice-Fight-2D |Unity<br>C#||
 2022<br>08/16<br>~<br>08/20 | Bounce | 친구 깃허브 협업 연습을 돕기 위해 만든 간단한 바운스볼 프로젝트 <br> https://github.com/cksuwjr/Bounce|Unity<br>C#|완료|
-2022<br>08/24 | ChattingProgram-Proudnet | 채팅프로그램 <br> https://github.com/cksuwjr/ChattingProgram-Proudnet|Aws<br>ProudNet<br>C#|일부구현, 중단|
+2022<br>08/24 | ChattingProgram-Proudnet | 채팅프로그램 <br> https://github.com/cksuwjr/ChattingProgram-Proudnet|Aws<br>ProudNet<br>C#|일부구현|
 2022<br>08/26 | RiceFight2D-TestFile | Rice-Fight-2D를 빌드한 Playable 프로그램 <br> https://github.com/cksuwjr/RiceFight2D-TestFile|||
-2022<br>08/31 | Aile | Rice-Fight-2D 의 서버클라이언트 모두 맡게끔 병합한 프로그램 <br> https://github.com/cksuwjr/Aile|Unity<br>C#<br>Riptide Networking|일부구현, 중단|
+2022<br>08/31 | Aile | Rice-Fight-2D 의 서버클라이언트 모두 맡게끔 병합한 프로그램 <br> https://github.com/cksuwjr/Aile|Unity<br>C#<br>Riptide Networking|일부구현|
 2022<br>09/01<br>~<br>11/31 | PROJECT-MOD<br>MapleStory-Inventory | 메이플스토리 월드 MOD 프로젝트 참여 <br> https://github.com/cksuwjr/MapleStory-Inventory |Lua<br>MapleStory World | 완료 |
 2022<br>12/27<br>~<br>2023<br>1/31 | Project_Cube | 3D 큐브 좀비 서바이벌 게임 <br> https://github.com/cksuwjr/Project_Cube | Unity<br>C# | 완료 |
-2023<br>1/7<br>~<br>3/30 | Out-of-Frozen | 작은 진돗개의 서바이벌 게임 <br> https://github.com/cksuwjr/Out-of-Frozen |Unity<br>C#|중단|
-2023<br>3/22<br>~<br>Now() | Pagomoa | 채굴마법소녀 Pagomoa 프로젝트 <br> https://github.com/Ciart/Pagomoa |Unity<br>C#|진행|
+2023<br>1/7<br>~<br>3/30 | Out-of-Frozen | 작은 진돗개의 서바이벌 퍼즐 게임 <br> https://github.com/cksuwjr/Out-of-Frozen |Unity<br>C#||
+2023<br>3/22<br>~<br>Now() | Pagomoa | 채굴마법소녀 Pagomoa 프로젝트 <br> https://github.com/Ciart/Pagomoa |Unity<br>C#||
 
 </div>
 
