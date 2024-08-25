@@ -94,7 +94,7 @@
 2022<br>09/01<br>~<br>11/31 | PROJECT-MOD<br>MapleStory-Inventory | 메이플스토리 월드 MOD 프로젝트 참여 <br> https://github.com/cksuwjr/MapleStory-Inventory |Lua<br>MapleStory World | 완료 |
 2022<br>12/27<br>~<br>2023<br>1/31 | Project_Cube | 3D 큐브 좀비 서바이벌 게임 <br> https://github.com/cksuwjr/Project_Cube | Unity<br>C# | 완료 |
 2023<br>1/7<br>~<br>3/30 | Out-of-Frozen | 작은 진돗개의 서바이벌 퍼즐 게임 <br> https://github.com/cksuwjr/Out-of-Frozen |Unity<br>C#||
-2023<br>3/22<br>~<br>Now() | Pagomoa | 채굴마법소녀 Pagomoa 프로젝트 <br> https://github.com/Ciart/Pagomoa |Unity<br>C#||
+2024<br>2/5<br>~<br>Now() | Pagomoa | 채굴마법소녀 Pagomoa 프로젝트 <br> https://github.com/Ciart/Pagomoa |Unity<br>C#||
 
 </div>
 
