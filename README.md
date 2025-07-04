@@ -40,9 +40,9 @@
 <div style="flex">
   <img src="https://img.shields.io/badge/Unity-222324?style=flat-square&logo=Unity&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Android Studio-green?style=flat-square&logo=Android&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Visual Studio-purple?style=flat-square&logo=Visual Studio&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Visual Studio Code-blue?style=flat-square&logo=Visual Studio Code&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Eclipse IDE-lightgray?style=flat-square&logo=Eclipse IDE&logoColor=white"/></a>&nbsp 
+  Visual Studio Code&nbsp
+  Visual Studio&nbsp 
+  Eclipse&nbsp 
   <img src="https://img.shields.io/badge/Springboot-lightgreen?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp 
 <!--<img src="https://img.shields.io/badge/(쓰고자하는_텍스트)-(컬러코드)?style=flat-square&logo=(simpleicons에서_아이콘이름)&logoColor=white"/></a>&nbsp  -->  
 </div>
